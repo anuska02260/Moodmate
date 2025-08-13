@@ -1,11 +1,5 @@
 # Moodmate
 MoodMate is a web-based AI/ML application that detects a user’s mood and provides personalized activity recommendations. It uses a trained machine learning model for mood analysis and integrates the results into an interactive, user-friendly web interface.
-MoodMate 🎯
-
-AI-Powered Mood & Activity Recommendation Web App
-
-MoodMate is a web application that uses an AI/ML model to analyze a user's mood and suggest personalized activities to improve their well-being. The app is built with Python, Streamlit, and integrates machine learning for mood prediction.
-
 
 ---
 
